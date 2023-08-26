@@ -32,7 +32,7 @@ To build machine learning regression models predicting the average ratings of th
 - Feature selection cutoff or principal components are chosen through trial and error.
 - Linear Regression and k-nearest Neighbours models are evaluated, with Linear Regression performing the best (negative RMSE of 0.164).
 - Metrics for Linear Regression on the test set are reported.
-![8](https://github.com/pooja-krishan/40-board-games/blob/main/8.png)
+![8](https://github.com/pooja-krishan/40-board-games/blob/main/8.PNG)
 
 ## Conclusion
 This analysis provides insights into board game relationships, embeddings, and prediction models. It offers valuable information for understanding fans' preferences and predicting board game ratings.
